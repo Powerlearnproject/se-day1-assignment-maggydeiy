@@ -6,15 +6,19 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+
 Software engineering is the application of engineering methods, principles, and tools to develop and maintain high-quality software programs.
 Software engineering is important in the technology industry today because it allows the creation of software and applications that makes everyday life easier.
+
 Identify and describe at least three key milestones in the evolution of software engineering.
-Development of programing languages
+
+Development of programming languages
 Establishing software engineering in 1960
 The rise of agile methodologies in the 2000s
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 Requirements:  gather and document user needs and what is required for the systems
 Design: craft detailed and high-quality software architecture and user interface
 Implementation: write a code and build software as per design instructions
@@ -24,6 +28,7 @@ Maintenance; providing support, updates, and any advances on the software after 
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 waterfall methodology follows a sequential pattern of clear phrases flowing down like a waterfall, while agile is an iterative and incremental program that focuses on collaboration, flexibility, and responding to change. 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
@@ -34,10 +39,12 @@ Project manager: responsible for planning, executing, and software deployment
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 Integrated Development Environment; these are software suites that supply tools for writing, debugging and testing codes like Visual Studio and IntelliJ IDEA
 version Control Systems: these are software tools for tracing a change in source code and coordinating work across all  team members such as; Git and subversion.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 Tight deadlines; software developers to be taking projects without tight deadlines to avoid delivering software with compromised quality 
 Change in requirements: developers should ensure they get the exact requirements that will meet clients' standards and specifications, and ensure they are what they need to avoid project delays
 
